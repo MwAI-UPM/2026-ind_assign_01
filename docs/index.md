@@ -18,9 +18,9 @@ reviewed in context by teaching staff.
 
 ## Documentation
 
-- [Architecture and pipeline flow](./_build/html/architecture.html)
-- [Python API reference](./_build/html/api.html)
-- [Generated Sphinx documentation](./_build/html/index.html)
+- [Architecture and pipeline flow](architecture.html)
+- [Python API reference](api.html)
+- [Generated Sphinx documentation](index.html)
 
 ## Source repository
 
