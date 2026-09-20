@@ -28,6 +28,7 @@ ruff = "^0.13.0"
 mypy = "^1.18.0"
 sphinx = "^8.2"
 sphinx-rtd-theme = "^3.0"
+sphinxcontrib-mermaid = "^1.0"
 
 [tool.black]
 line-length = 88

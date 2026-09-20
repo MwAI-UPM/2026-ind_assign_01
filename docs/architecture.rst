@@ -12,42 +12,43 @@ End-to-end flow
 
 The implemented flow is:
 
-.. code-block:: text
+.. mermaid::
 
+    flowchart LR
 
-       A[Raw Submissions<br/>PDF DOCX XLSX]
+    A[Raw Submissions<br/>PDF DOCX XLSX]
 
-       A --> B[Normalization]
+    A --> B[Normalization]
 
-       B --> C[data/normalized]
+    B --> C[data/normalized]
 
-       C --> D[Analysis<br/>analyze_all.py]
+    C --> D[Analysis<br/>analyze_all.py]
 
-       D --> E[GPT Analysis]
+    D --> E[GPT Analysis]
 
-       D --> F[AI Detection]
+    D --> F[AI Detection]
 
-       E --> G[data/analysis]
+    E --> G[data/analysis]
 
-       F --> G
+    F --> G
 
-       G --> H[Evaluation<br/>evaluate_all.py]
+    G --> H[Evaluation<br/>evaluate_all.py]
 
-       H --> I[data/evaluation]
+    H --> I[data/evaluation]
 
-       G --> J[Cohort Summary]
+    G --> J[Cohort Summary]
 
-       I --> J
+    I --> J
 
-       C --> K[Digital Twin Detection]
+    C --> K[Digital Twin Detection]
 
-       G --> K
+    G --> K
 
-       G --> L[AI Usage Report]
+    G --> L[AI Usage Report]
 
-       J --> M[Teaching Dashboard]
-       K --> M
-       L --> M
+    J --> M[Teaching Dashboard]
+    K --> M
+    L --> M
 
 The final dashboard is an intended consumer of the generated CSV products;
 this repository currently supplies the data products rather than a dashboard
