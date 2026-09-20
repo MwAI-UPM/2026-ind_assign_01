@@ -1,0 +1,10 @@
+theme: jekyll-theme-cayman
+title: Assessment Pipeline
+description: Reproducible assessment and reporting for UPM MSc AI Management assignments.
+show_downloads: false
+markdown: kramdown
+
+# Sphinx writes the generated documentation below this directory.  Keep it
+# available to the Jekyll site so the landing page can link to it.
+include:
+  - _build
