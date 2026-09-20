@@ -12,7 +12,7 @@ End-to-end flow
 
 The implemented flow is:
 
-.. code-block:: mermaid
+.. code-block:: text
 
    flowchart LR
 
