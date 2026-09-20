@@ -1,0 +1,22 @@
+{
+  "completeness": "partial",
+  "quality": "low",
+  "evidence_strength": "high",
+  "confidence": "high",
+  "strengths": [
+    "Successfully completes the inventory task (Task 1) with titles, authors, venues, and brief descriptions.",
+    "No evident formatting or citation errors in the presented material."
+  ],
+  "weaknesses": [
+    "Only Task 1 is present; tasks 2‑5 (topographical mapping, synthesis, integrative synthesis, final report) are missing.",
+    "Overall submission is incomplete, limiting the depth and integration of analysis.",
+    "Lacks the required synthesis and reporting components expected for a full assignment."
+  ],
+  "recommendations": [
+    "Complete the missing tasks: add topographical mapping, thematic synthesis, integrative synthesis, and a final report.",
+    "Structure the document into clearly labeled sections for each required component.",
+    "Include proper citations and a bibliography for all sources used.",
+    "Review assignment guidelines to ensure all deliverables are addressed."
+  ],
+  "evaluation_summary": "The submission fulfills only the inventory requirement, providing a concise catalog of articles. However, it omits all other major tasks, resulting in a partial and low-quality submission. While the existing content is formatted correctly, the lack of synthesis, mapping, and final reporting severely limits its overall value. Completion of the remaining tasks and improved structural organization are necessary for a satisfactory submission."
+}

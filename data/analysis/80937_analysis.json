@@ -1,0 +1,23 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "Copilot",
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "Metadata for this inventory was generated using Microsoft 365 Copilot Chat, based on the 31 filenames retrieved from the course document set."
+  ],
+  "summary": "The submission consists of a single document that fulfills Task 1 – Inventory & Initial Scan. It lists topics, methods, a target architecture, and limitations for a steel‑plant AI scheduling corpus, and notes that metadata was produced with Microsoft 365 Copilot Chat. No evidence of Tasks 2‑5 is present.",
+  "issues": [
+    "Only Task 1 is provided; Tasks 2–5 are missing.",
+    "Several entries have incomplete metadata due to truncated titles.",
+    "Submission contains a single document, limiting overall coverage."
+  ],
+  "ai_detection_method": "keyword_search"
+}

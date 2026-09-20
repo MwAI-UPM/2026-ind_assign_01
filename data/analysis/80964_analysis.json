@@ -1,0 +1,23 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "incomplete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission contains two PDFs: the assignment prompts and a report that addresses Task 1 (Inventory) with a knowledge domain overview and metadata table. No evidence of Tasks 2‑5 is present. The student did not declare any AI tools used. The work is partially complete but lacks the majority of required deliverables.",
+  "issues": [
+    "Only Task 1 submitted; Tasks 2‑5 are missing",
+    "Use of ASCII diagrams in Task 1 report despite instruction to avoid them",
+    "No bibliography or reference list provided",
+    "Submission does not meet full assignment requirements"
+  ],
+  "ai_detection_method": "keyword_search"
+}

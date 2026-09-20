@@ -1,0 +1,23 @@
+{
+  "completeness": "partial",
+  "quality": "low",
+  "evidence_strength": "high",
+  "confidence": "high",
+  "strengths": [
+    "Provides a comprehensive metadata table for 31 papers.",
+    "Includes brief core‑claim snippets for each paper, satisfying the inventory requirement."
+  ],
+  "weaknesses": [
+    "Only Task 1 (Inventory) is completed; all other required tasks are absent.",
+    "No topographical mapping, synthesis, integrative synthesis, or final report is provided.",
+    "Missing explicit AI usage declaration despite the assignment requiring it."
+  ],
+  "recommendations": [
+    "Complete the topographical mapping task for the identified papers.",
+    "Develop a synthesis section that identifies patterns and gaps across the literature.",
+    "Create an integrative synthesis that connects findings to the broader research question.",
+    "Prepare the final report with proper structure, conclusions, and references.",
+    "Include a clear declaration of any AI tools used in the preparation of the work."
+  ],
+  "evaluation_summary": "The submission partially fulfills the assignment by delivering a solid inventory of sources, but it omits all subsequent tasks, resulting in a low overall quality assessment. While the evidence provided is clear and the analysis confident, the missing components constitute major deficiencies that must be addressed for a complete and competent submission."
+}

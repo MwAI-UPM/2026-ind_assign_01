@@ -1,0 +1,23 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission contains a single .docx file titled 'Task_1_Inventory_and_Initial_Scan' that provides an inventory and initial scan of five technical papers on industrial scheduling and energy optimization. It includes metadata extraction, domain boundary analysis, and a comparative synthesis matrix but does not include any other assignment components such as topographical mapping, synthesis, integrative synthesis, or a final report.",
+  "issues": [
+    "Only Task 1 detected; other required tasks are missing",
+    "No explicit declaration of AI tool usage",
+    "Bibliographic information is embedded within the inventory rather than a separate bibliography",
+    "Overall submission appears incomplete relative to full assignment requirements"
+  ],
+  "ai_detection_method": "keyword_search"
+}

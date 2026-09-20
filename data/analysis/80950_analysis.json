@@ -1,0 +1,24 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "ChatGPT",
+    "Claude",
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single Excel file containing a table of literature titles, authors, dates, keywords, and references. This constitutes an inventory (Task 1) of relevant sources but does not include any topographical mapping, synthesis, integrative synthesis, or final report components. No explicit statement of AI tool usage is present.",
+  "issues": [
+    "Only Task 1 (Inventory) is provided; other required tasks are missing.",
+    "Submission lacks synthesis, integrative analysis, and final report sections.",
+    "The format may not meet the expected multi‑document structure for full submissions."
+  ],
+  "ai_detection_method": "keyword_search"
+}

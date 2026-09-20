@@ -1,0 +1,23 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "Claude",
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "I used Claude (Anthropic) as a code-executing research assistant to automate metadata extraction",
+    "I also used Elicit, an AI tool purpose-built for reading and synthesizing academic literature"
+  ],
+  "summary": "The submission consists of a single .docx file delivering Task 1 – an inventory and initial scan of 31 PDFs. The student details using Claude (Anthropic) for automated metadata extraction and Elicit for a secondary literature synthesis, presenting duplicate checks, metadata tables, and domain‑boundary analysis. No other tasks (e.g., mapping, synthesis, integrative synthesis, final report) are included. AI tool usage is explicitly declared. The document is monolithic and represents a partial submission with partial completeness.",
+  "issues": [
+    "Only Task 1 (Inventory) is present; Tasks 2‑5 are missing",
+    "Submission lacks the expected additional components such as topographical mapping, synthesis, and final report"
+  ],
+  "ai_detection_method": "keyword_search"
+}

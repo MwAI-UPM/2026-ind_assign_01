@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    3
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission contains a single document titled 'Task1_Synthesis_Divergence.docx' that addresses Task 3: Synthesis & Divergence. It provides a detailed analysis of complexity framing, tools, domain boundaries, and metadata extraction. No other assignment tasks are present, and the work does not include an inventory, topographical mapping, integrative synthesis, or final report components.",
+  "issues": [
+    "Only Task 3 is submitted; tasks 1, 2, 4, and 5 are missing.",
+    "Single-document (monolithic) format limits coverage of required tasks.",
+    "Partial coverage may affect overall completeness of the assignment."
+  ],
+  "ai_detection_method": "keyword_search"
+}

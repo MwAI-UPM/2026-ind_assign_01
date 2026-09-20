@@ -1,0 +1,25 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "full_submission",
+  "tasks_detected": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "completeness": "complete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "Method note: reports were produced with AI assistance (text extraction, coding and drafting)."
+  ],
+  "summary": "The submission consists of two HTML files forming a multi‑document report. It addresses all five assignment tasks: an inventory of 31 papers, a topographical mapping of topics and citations, a synthesis of tensions, an integrative blueprint for an explainable twin‑in‑the‑loop scheduling system, and an executive briefing using the AIDA structure. The index file outlines each task and provides key findings; a detailed inventory report expands on Task 1. The methodology note declares AI assistance for text extraction, coding and drafting.",
+  "issues": [
+    "Only Task 1 is fully detailed; Tasks 2‑5 are presented mainly as outlines.",
+    "AI usage is declared but no specific AI tools are named."
+  ],
+  "ai_detection_method": "keyword_search"
+}

@@ -1,0 +1,21 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "LLM-assisted structured extraction and summarization were then used to standardize the inventory and identify recurring themes."
+  ],
+  "summary": "The student submitted a single document titled 'Task 1 – Inventory & Initial Scan' that provides an inventory of 31 scholarly sources related to energy‑efficient production planning in steelmaking. It outlines thematic areas, presents a tabular summary, and notes the use of LLM‑assisted extraction. Only the inventory task is addressed; other required tasks are absent.",
+  "issues": [
+    "Only Task 1 (Inventory) is present; tasks 2‑5 are missing.",
+    "AI tool is mentioned generically as 'LLM' without specifying a concrete system."
+  ],
+  "ai_detection_method": "keyword_search"
+}

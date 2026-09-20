@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission provides an inventory of 31 technical documents related to steel production scheduling, including a detailed table of titles, authors, sources, and years. It also outlines three main knowledge axes (technical-methodological, business objective, system architecture) and defines the domain boundaries. The work corresponds to the initial inventory and scanning task.",
+  "issues": [
+    "Only Task 1 (Inventory) is present; tasks 2-5 are missing.",
+    "The document ends abruptly, suggesting incomplete content.",
+    "No explicit AI tool usage is declared."
+  ],
+  "ai_detection_method": "keyword_search"
+}

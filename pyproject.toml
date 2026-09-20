@@ -1,0 +1,45 @@
+[tool.poetry]
+name = "assessment-pipeline"
+version = "0.1.0"
+description = "UPM MSc AI Management assignment processing pipeline"
+authors = ["Joaquin Ordieres <jordieres@upm.es>"]
+readme = "README.md"
+
+packages = [
+    { include = "assessment_pipeline", from = "src" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+pypdf = "^6.0.0"
+python-docx = "^1.2.0"
+python-pptx = "^1.0.2"
+openpyxl = "^3.1.5"
+beautifulsoup4 = "^4.13.0"
+rarfile = "^4.2"
+pandas = "^2.3.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.4.0"
+pytest-cov = "^7.0.0"
+black = "^25.0.0"
+ruff = "^0.13.0"
+mypy = "^1.18.0"
+sphinx = "^8.2"
+sphinx-rtd-theme = "^3.0"
+
+[tool.black]
+line-length = 88
+
+[tool.ruff]
+line-length = 88
+
+[tool.pytest.ini_options]
+testpaths = [
+    "tests"
+]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

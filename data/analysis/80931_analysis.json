@@ -1,0 +1,22 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission contains an engagement letter for a study abroad program and an Excel catalog listing 10 scholarly sources with metadata, representing an inventory of relevant literature. No other assignment components such as mapping, synthesis, or final reporting are present.",
+  "issues": [
+    "Only Task 1 (Inventory) is provided; Tasks 2-5 are missing.",
+    "Lacks synthesis, analysis, and final report required by the assignment.",
+    "No explicit AI tool usage declaration."
+  ],
+  "ai_detection_method": "keyword_search"
+}

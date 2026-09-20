@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single PDF titled 'TASK 1' that provides an inventory of 31 project items (D01‑D31) with objectives and methods. It satisfies the inventory task (Task 1) but lacks the topographical mapping, synthesis, integrative synthesis, and final report components required by the assignment.",
+  "issues": [
+    "Only the inventory task is present; other required tasks are missing.",
+    "Submission is incomplete relative to full assignment requirements.",
+    "No explicit declaration of AI tool usage."
+  ],
+  "ai_detection_method": "keyword_search"
+}

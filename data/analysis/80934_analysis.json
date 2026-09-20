@@ -1,0 +1,24 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    4,
+    5
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission contains two PDFs: an Integrative Synthesis (Task 4) presenting a unified organizational blueprint for smart steel manufacturing, and a Final Report (Task 5) offering an executive briefing, strategic roadmap, and recommendations using the AIDA framework. Both documents discuss digital twins, reinforcement learning, explainable AI, and metallurgical constraints, but lack the earlier inventory, topographical mapping, and synthesis analyses.",
+  "issues": [
+    "Tasks 1-3 (Inventory, Topographical Mapping, Synthesis & Divergence) are missing",
+    "No bibliography or reference list provided",
+    "Only two documents submitted, limiting completeness",
+    "No explicit declaration of AI tool usage"
+  ],
+  "ai_detection_method": "keyword_search"
+}

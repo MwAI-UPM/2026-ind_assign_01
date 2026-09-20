@@ -1,0 +1,27 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1,
+    2
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "Claude",
+    "Copilot",
+    "Gemini",
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "Upload the data into copilot, claude and gemini"
+  ],
+  "summary": "The submission consists of a PDF plan and three markdown files. The student provides Task 1 (Inventory & Initial Scan) and Task 2 (Topographical Mapping) deliverables, but Tasks 3, 4, and 5 are absent. The PDF outlines a workflow that includes using AI tools (Copilot, Claude, Gemini) for data processing. Overall the work covers part of the required assignment with partial completeness.",
+  "issues": [
+    "Missing deliverables for Tasks 3, 4, and 5 (Synthesis divergence, Integrative synthesis, Final report).",
+    "No consolidated final report or story‑telling component.",
+    "Limited integration between the separate markdown files and the PDF plan.",
+    "Potential formatting inconsistencies due to heavy use of spaced characters in the PDF text."
+  ],
+  "ai_detection_method": "keyword_search"
+}

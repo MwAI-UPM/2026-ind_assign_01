@@ -1,0 +1,23 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1,
+    2
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of two PDF documents. The first file provides an inventory and initial scan of relevant literature, listing titles, authors, keywords, and brief snippets. The second file presents a topographical mapping of knowledge domains, organizing topics into a hierarchical tree covering steel manufacturing, energy-aware processes, optimization methods, AI techniques, and Industry 5.0 concepts. While these two tasks are addressed, the remaining assignment components (Synthesis & Divergence, Integrative Synthesis, Final Report) are absent.",
+  "issues": [
+    "Missing tasks 3, 4, and 5",
+    "Excessive whitespace and fragmented formatting in extracted text",
+    "File name for Task 1 appears corrupted"
+  ],
+  "ai_detection_method": "keyword_search"
+}

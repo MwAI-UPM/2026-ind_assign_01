@@ -1,0 +1,23 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single HTML file presenting Task 1 – Inventory and Initial Scan for the steelmaking scheduling domain. It outlines the archive scope, metadata extraction, de‑duplication, and corpus analysis, and references upcoming tasks such as Topographical Mapping, Synthesis & Divergence, Integrative Synthesis, and an Executive Briefing, but only the inventory deliverable is provided.",
+  "issues": [
+    "Only Task 1 is present; tasks 2‑5 are missing.",
+    "No bibliography or reference list is included.",
+    "Several manifest entries are noted as missing, limiting completeness of the inventory.",
+    "No explicit declaration of AI tool usage."
+  ],
+  "ai_detection_method": "keyword_search"
+}

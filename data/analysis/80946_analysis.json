@@ -1,0 +1,24 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "full_submission",
+  "tasks_detected": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The student submitted a multi‑document package containing four reports: an inventory of the knowledge domain, a topographical mapping, a synthesis/divergence analysis, and an integrative synthesis. These correspond to tasks 1‑4 of the assignment. While the submission meets the criteria for a full submission by covering four required tasks, the final report (task 5) is missing. No explicit declaration of AI tool usage is present.",
+  "issues": [
+    "Task 5 (Final Report) is not included",
+    "No explicit AI usage declaration found"
+  ],
+  "ai_detection_method": "keyword_search"
+}

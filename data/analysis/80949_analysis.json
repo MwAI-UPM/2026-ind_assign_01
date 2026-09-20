@@ -1,0 +1,21 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission contains a single document titled 'Task 1 — Inventory & Initial Scan'. It presents an inventory of 31 peer‑reviewed papers related to energy‑efficient scheduling of steel furnaces, describing purpose, methodology, corpus overview, metadata inventory, identified method families, immediate findings, gaps, and a conclusion. The report establishes the knowledge domain but does not include subsequent mapping, synthesis, or final reporting tasks.",
+  "issues": [
+    "Only Task 1 (Inventory) is provided; tasks 2‑5 are missing.",
+    "No explicit declaration of AI tool usage."
+  ],
+  "ai_detection_method": "keyword_search"
+}

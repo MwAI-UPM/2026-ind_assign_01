@@ -1,0 +1,23 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1,
+    2
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission is a single document that provides an inventory (Task 1) of 28 papers on AI applications in energy‑intensive industrial production, including metadata extraction and domain boundary definition, and a thematic/topographical mapping (Task 2) that organizes the papers into six clusters with detailed method descriptions. The work stops at the mapping stage and does not include synthesis, integrative synthesis, or a final report.",
+  "issues": [
+    "Only Tasks 1 and 2 are present; later required tasks are missing.",
+    "No explicit declaration of AI tool usage by the student.",
+    "Bibliographic details are embedded but a separate bibliography section is absent."
+  ],
+  "ai_detection_method": "keyword_search"
+}

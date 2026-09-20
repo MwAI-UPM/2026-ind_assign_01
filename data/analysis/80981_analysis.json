@@ -1,0 +1,23 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "Claude",
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single PDF titled 'Task1_Inventory_and_Initial_Scan' containing an annotated inventory of 31 documents related to furnace scheduling, rolling, and steelmaking processes. It fulfills the Inventory task but does not include evidence of topographical mapping, synthesis, integrative synthesis, or a final report.",
+  "issues": [
+    "Only Task 1 (Inventory) is present; other required tasks are missing.",
+    "Submission appears incomplete for a full assignment.",
+    "No explicit declaration of AI tool usage."
+  ],
+  "ai_detection_method": "keyword_search"
+}

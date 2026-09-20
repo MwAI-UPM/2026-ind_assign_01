@@ -1,0 +1,25 @@
+{
+  "completeness": "partial",
+  "quality": "low",
+  "evidence_strength": "high",
+  "confidence": "high",
+  "strengths": [
+    "Provides a clear inventory of processes, equipment, and objectives",
+    "Includes a bibliography of related papers"
+  ],
+  "weaknesses": [
+    "Only Task 1 is present; Tasks 2‑5 are completely missing",
+    "No topographical mapping, synthesis, integrative synthesis, or final report",
+    "Lacks analytical depth and discussion of findings",
+    "Monolithic document structure limits readability",
+    "No declaration of AI tool usage"
+  ],
+  "recommendations": [
+    "Add the missing components: topographical mapping (Task 2), synthesis of findings (Task 3), integrative synthesis (Task 4), and a final report (Task 5)",
+    "Structure the document with clear sections and headings for each task",
+    "Provide analytical discussion and interpretation of the inventory data",
+    "Include any AI tools used and declare them according to assignment guidelines",
+    "Ensure proper formatting and citation consistency"
+  ],
+  "evaluation_summary": "The submission only fulfills Task 1, resulting in partial completeness. While it lists relevant processes and includes a bibliography, it lacks all higher‑order tasks, analytical depth, and a coherent structure, leading to low overall quality. Evidence from the analysis is clear, supporting a high confidence assessment."
+}

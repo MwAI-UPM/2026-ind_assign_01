@@ -1,0 +1,24 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "full_submission",
+  "tasks_detected": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "completeness": "complete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission provides an inventory of 31 steel manufacturing papers (Task 1), a cross‑reference network, gap map, and hierarchical topic tree illustrating research densities (Task 2), a divergence analysis highlighting trade‑offs between optimization, AI, energy, and human‑centric approaches (Task 3), and an integrative synthesis proposing a layered organizational blueprint that combines human supervision, explainable AI, reinforcement learning, and digital twins (Task 4).",
+  "issues": [
+    "Task 5 (Final Report) is absent.",
+    "The integrative synthesis document appears truncated, ending abruptly."
+  ],
+  "ai_detection_method": "keyword_search"
+}

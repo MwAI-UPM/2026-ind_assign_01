@@ -1,0 +1,25 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "full_submission",
+  "tasks_detected": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "completeness": "complete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission includes a Methodology Notes document describing the execution of all five project tasks—Inventory, Topographical Mapping, Synthesis Divergence, Integrative Synthesis, and Final Report—along with supporting artifacts such as a detailed Excel inventory for Task 1. The student details data extraction, verification, diagram generation, format conversions, and issue resolution across the tasks, providing a comprehensive, reproducible workflow.",
+  "issues": [
+    "No explicit declaration of AI tool usage.",
+    "The submission focuses on process documentation; bibliography or reference list is not evident."
+  ],
+  "ai_detection_method": "keyword_search"
+}

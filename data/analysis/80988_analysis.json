@@ -1,0 +1,24 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1,
+    2
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission presents Task 1 (Inventory) with a detailed boundary statement, metadata extraction table, and initial snippets for a set of documents related to steel industry scheduling and AI. Task 2 (Topographical Mapping) provides a hierarchical topic tree, a network‑graph edge table, and a brief synthesis of the domain structure. The work is contained in a single document and addresses two of the five expected assignment tasks.",
+  "issues": [
+    "Only tasks 1 and 2 are completed; tasks 3, 4, and 5 are missing.",
+    "No bibliography or reference list is included.",
+    "No explicit declaration of AI tool usage is present.",
+    "The submission is a single monolithic document rather than multiple required components."
+  ],
+  "ai_detection_method": "keyword_search"
+}

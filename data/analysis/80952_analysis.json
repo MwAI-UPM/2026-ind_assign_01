@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single CSV file titled 'Document_Inventory.csv' containing a curated list of 12 scholarly articles on steel scheduling, energy efficiency, uncertainty, and AI approaches. Each entry includes metadata such as ID, title, authors, year, source, keywords, themes, and a brief excerpt. The document serves as an inventory of relevant literature but does not include any topographical mapping, synthesis, integrative synthesis, or final report components.",
+  "issues": [
+    "Only the inventory task (Task 1) is provided; other required tasks are missing.",
+    "Submission appears to be a single document, lacking multi‑document structure if expected.",
+    "No explicit declaration of AI tool usage is present."
+  ],
+  "ai_detection_method": "keyword_search"
+}

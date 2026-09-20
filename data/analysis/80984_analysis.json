@@ -1,0 +1,27 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "full_submission",
+  "tasks_detected": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "completeness": "complete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "Claude",
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "Herramienta: Claude Code (aplicación de escritorio), como asistente que ejecuta las acciones."
+  ],
+  "summary": "The submission comprises a methodology text describing the use of Claude Code and Python tools to process 31 PDFs, and a detailed Task 1 inventory report. The methodology outlines the execution of all five required tasks—inventory, topographical mapping, divergence analysis, integrative synthesis, and final report—while the Task 1 document provides the full inventory and initial scan. AI assistance is explicitly declared via Claude Code.",
+  "issues": [
+    "Only the Task 1 report is provided as a full document; deliverables for Tasks 2‑5 are described but not included.",
+    "No separate bibliography file is present.",
+    "The Word document content is summarized but not fully extractable in this view."
+  ],
+  "ai_detection_method": "keyword_search"
+}

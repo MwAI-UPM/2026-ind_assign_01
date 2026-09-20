@@ -1,0 +1,24 @@
+{
+  "completeness": "partial",
+  "quality": "low",
+  "evidence_strength": "high",
+  "confidence": "high",
+  "strengths": [
+    "Accurately identified that Task 2 (Topographical Mapping) is present.",
+    "Clearly listed the missing core tasks (Inventory, Synthesis, Integrative Synthesis, Final Report).",
+    "Explicitly noted the absence of an AI usage declaration."
+  ],
+  "weaknesses": [
+    "Only a single monolithic .docx file is provided; required sections are absent.",
+    "No inventory, synthesis, integrative synthesis, or final report sections are included.",
+    "Lacks any discussion, analysis, or conclusions beyond the hierarchical list.",
+    "No declaration of AI tool usage, which is a required component."
+  ],
+  "recommendations": [
+    "Add the missing tasks: Inventory, Synthesis, Integrative Synthesis, and a Final Report.",
+    "Reformat the document into separate, clearly labeled sections as specified by the assignment.",
+    "Provide substantive analysis and synthesis rather than only a hierarchical list.",
+    "Include a statement on AI tool usage, even if none were employed."
+  ],
+  "evaluation_summary": "The submission contains only Task 2, a topographical mapping, and omits all other required components, resulting in partial completeness and low overall quality. While the analysis clearly identifies these gaps, the work lacks the necessary structure, synthesis, and reporting expected for the assignment. Substantial additions and reformatting are needed to meet the assignment requirements."
+}

@@ -1,0 +1,24 @@
+from collections import Counter
+from pathlib import Path
+
+ROOT = Path(
+    "/media/samba/docencia/UPM/Masters/MIO_AIM/2627/practicas/Assignment_Class_01"
+)
+
+counter = Counter()
+
+for path in ROOT.rglob("*"):
+
+    if not path.is_file():
+        continue
+
+    # Ignore our development environment
+    if "soft" in path.parts:
+        continue
+
+    counter[path.suffix.lower()] += 1
+
+print()
+
+for ext, count in sorted(counter.items()):
+    print(f"{ext or '[no extension]'} : {count}")

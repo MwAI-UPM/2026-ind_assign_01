@@ -1,0 +1,23 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The student submitted a single PDF titled 'TASK 1' containing a list of 20 bibliographic entries (D1-D20) covering topics such as proactive scheduling, energy optimization, explainable AI, and digital twins in steel production. This material fulfills the inventory task but does not include topographical mapping, synthesis, integrative synthesis, or a final report. No explicit statement of AI tool usage is present.",
+  "issues": [
+    "Only the inventory task (Task 1) is provided; other required tasks are missing.",
+    "Submission lacks analysis, synthesis, and final reporting components.",
+    "Several entries note missing metadata, indicating incomplete reference details.",
+    "No declaration of AI tool usage was found."
+  ],
+  "ai_detection_method": "keyword_search"
+}

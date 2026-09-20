@@ -1,0 +1,25 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "full_submission",
+  "tasks_detected": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single document that primarily lists literature organized under headings such as Task 2, Task 3, Task 4, and Task 5, providing categories and references for each. It addresses tasks 2 through 5 but does not include any material for Task 1. The content is a structured bibliography rather than a narrative report.",
+  "issues": [
+    "Task 1 (Inventory) is missing",
+    "Content is limited to listings without analysis or synthesis expected for the tasks",
+    "No explicit AI tool usage declared"
+  ],
+  "ai_detection_method": "keyword_search"
+}

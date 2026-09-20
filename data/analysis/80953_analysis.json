@@ -1,0 +1,23 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1,
+    2,
+    3
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": false,
+  "ai_tools_mentioned": [],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission presents Task 1 (Inventory) outlining metadata extraction from 25 documents on AI in the steel industry, defining the knowledge domain and key tools. Task 2 (Topographical Mapping) builds a hierarchical topic tree and a textual network graph, highlighting clusters such as production scheduling, energy efficiency, digital twins, and AI techniques, and identifies gaps. Task 3 (Synthesis Divergence) begins a comparative analysis of traditional versus AI-driven scheduling and energy versus throughput trade‑offs. The work stops abruptly before completing further synthesis or a final report.",
+  "issues": [
+    "Only three of the five expected tasks are present; Tasks 4 and 5 are missing.",
+    "The document ends abruptly, suggesting incomplete content.",
+    "No bibliography or reference list is included.",
+    "No explicit declaration of AI tool usage is found."
+  ],
+  "ai_detection_method": "keyword_search"
+}

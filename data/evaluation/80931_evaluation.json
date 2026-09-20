@@ -1,0 +1,24 @@
+{
+  "completeness": "partial",
+  "quality": "low",
+  "evidence_strength": "high",
+  "confidence": "high",
+  "strengths": [
+    "Task 1 (inventory) is present and includes a spreadsheet with document metadata",
+    "The analysis clearly identifies which tasks are missing"
+  ],
+  "weaknesses": [
+    "Tasks 2‑5 (topographical mapping, synthesis, integrative synthesis, final report) are absent",
+    "The PDF engagement form does not relate to any assignment requirements",
+    "No synthesis or integrative discussion is provided",
+    "The submission is incomplete and lacks the required final report"
+  ],
+  "recommendations": [
+    "Prepare and submit the topographical mapping component required for Task 2",
+    "Develop a synthesis of the sources for Task 3 and an integrative synthesis for Task 4",
+    "Create the final report specified in Task 5, linking all previous work",
+    "Replace or supplement the unrelated PDF with materials directly relevant to the assignment",
+    "Ensure all required sections are included before final submission"
+  ],
+  "evaluation_summary": "The submission is a partial delivery that only fulfills Task 1 by providing an inventory spreadsheet. All other required tasks are missing, and the accompanying PDF is unrelated. Because of these substantial gaps, the overall quality is low despite the clear evidence of what is present. The analysis offers strong evidence for this assessment, giving high confidence in the evaluation."
+}

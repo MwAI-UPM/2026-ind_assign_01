@@ -1,0 +1,23 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "full_submission",
+  "tasks_detected": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "completeness": "complete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "Claude",
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "Tool. Claude Code (Anthropic) was used interactively across five sessions, one per task."
+  ],
+  "summary": "The submission comprises an AI Method Note describing the use of Claude Code for all five assignment tasks and a detailed Inventory report (Task 1). The note outlines the workflow for Tasks 2‑5, indicating completed mapping, divergence analysis, synthesis blueprint, and briefing. Metadata extraction, tagging, TF‑IDF, network analysis, and visualizations are documented, and each output was reviewed by the student. The work appears to fulfill the full set of required tasks.",
+  "issues": [],
+  "ai_detection_method": "keyword_search"
+}

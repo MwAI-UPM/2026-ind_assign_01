@@ -1,0 +1,21 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single Excel file containing a sheet with an inventory of literature entries (ID, title, authors, etc.) related to scheduling and Industry 5.0 topics. Only Task 1 (Inventory) is evident; no topographical mapping, synthesis, integrative synthesis, or final report components are present.",
+  "issues": [
+    "Only the inventory task is provided; other required tasks are missing.",
+    "Submission lacks narrative, analysis, or final report elements."
+  ],
+  "ai_detection_method": "keyword_search"
+}

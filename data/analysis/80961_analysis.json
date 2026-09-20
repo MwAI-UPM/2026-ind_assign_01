@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission is a single PDF containing an executive report that addresses Task 1 (Inventory and Initial Scan). It provides a document inventory table, knowledge domain boundary analysis, and an initial organizational interpretation related to operational complexity, energy efficiency, intelligent automation, and furnace scheduling. No evidence of tasks 2‑5 is present, making the submission a partial submission with partial completeness.",
+  "issues": [
+    "Only Task 1 is delivered; tasks 2‑5 are missing.",
+    "Submission classified as partial due to limited task coverage.",
+    "No explicit declaration of AI tool usage."
+  ],
+  "ai_detection_method": "keyword_search"
+}

@@ -1,0 +1,23 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "full_submission",
+  "tasks_detected": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": false,
+  "ai_tools_mentioned": [],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission contains a PDF file with no extracted text and a text file that lists detailed prompts for Tasks 1 through 4 (metadata extraction, topic tree, trade‑off analysis, and integrative synthesis). The prompts describe the expected deliverables but no actual task outputs are present. No AI tools are mentioned or declared.",
+  "issues": [
+    "PDF file is empty (no content extracted)",
+    "Only prompts are provided; actual task deliverables are missing",
+    "Task 5 (Final Report) is not present"
+  ],
+  "ai_detection_method": "keyword_search"
+}

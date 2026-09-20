@@ -1,0 +1,23 @@
+{
+  "document_structure": "multi_document",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The student submitted two files (a PDF and a DOCX) that together present the Inventory & Initial Scan (Task 1) for a steelmaking and furnace scheduling archive. The material includes a document inventory, relevance assessment, domain boundaries, thematic clusters, a glossary, suggested analytical tools, and an initial conclusion. No other assignment tasks (Topographical Mapping, Synthesis, Integrative Synthesis, Final Report) are provided. The submission notes that further changes are needed and appears unfinished.",
+  "issues": [
+    "Only Task 1 is delivered; tasks 2-5 are missing.",
+    "Submission is incomplete and appears to require further revisions.",
+    "No explicit declaration of AI tool usage.",
+    "Potential formatting inconsistencies and truncated content in the DOCX."
+  ],
+  "ai_detection_method": "keyword_search"
+}

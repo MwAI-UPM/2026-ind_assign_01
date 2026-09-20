@@ -1,0 +1,57 @@
+student_id,student_name,assignment_type,tasks_completed,quality,digital_twin,dt_evidence
+80928,MARTINEZ LOPEZ-SERRANO MARIA,partial_submission,1,low,DT_not_evaluable,
+80929,GUERRERO GUERRERO FRANCISCO DE BORJA,partial_submission,1,medium,DT_not_evaluable,
+80930,IRIBARREN ASENJO JUAN,partial_submission,1,medium,DT_not_evaluable,
+80931,PARADISO MARIA FERNANDA,partial_submission,1,low,DT_not_evaluable,
+80932,MARAVER OSUNA JAVIER,partial_submission,1,medium,DT_not_evaluable,
+80933,VOGEL KACPER,full_submission,5,low,DT_recommended,"d in the accompanying Integrative Synthesis report. At the executive level, the recommended path is a phased rollout, not a single deployment: Phase 1 — Foundation (0–3 months) Stand up a digital-twin"
+80934,KOCER MERT,partial_submission,2,medium,DT_not_evaluable,
+80935,ELBAUM JONATHAN,partial_submission,1,low,DT_not_evaluable,
+80936,MINGO MENENDEZ PABLO,full_submission,4,low,DT_mentioned,Digital Twin mentioned
+80937,LE STRAT MAXIME,partial_submission,1,medium,DT_not_evaluable,
+80938,VAN LIEVERLOO BODINE,partial_submission,2,medium,DT_not_evaluable,
+80940,BUYSSE AMELIE,partial_submission,1,low,DT_not_evaluable,
+80941,CAMPOS ORTEGA ALBERTO,partial_submission,2,medium,DT_not_evaluable,
+80942,LAVIGNE LUCAS,partial_submission,1,low,DT_not_evaluable,
+80943,GUSTAFSSON TUVA,full_submission,4,medium,DT_recommended,"ign delivers reliability, adaptability, visibility, and accountability. Action: Implementation Roadmap Phase 1 establishes digital foundations and Digital Twin capabilities. Phase 2 introduces DRL sch"
+80944,MENEGOZZO EDOARDO,full_submission,4,low,DT_mentioned,Digital Twin mentioned
+80945,LE COUSIN CESAR,full_submission,5,medium,DT_mentioned,Digital Twin mentioned
+80946,FELL ELSA,full_submission,4,low,DT_recommended,"neously optimize efficiency, sustainability, digitalization and resilience. The proposed blueprint integrates the strongest practices identified across all research clusters into a coherent organizati"
+80947,ESTRINGANA LOPEZ-REY JORGE,partial_submission,1,medium,DT_not_evaluable,
+80949,LANEUS HANNA,partial_submission,1,medium,DT_not_evaluable,
+80950,ESTEVES MAHEL,partial_submission,1,low,DT_not_evaluable,
+80951,SANTOS BARON MARIA,full_submission,5,medium,DT_not_found,
+80952,JIMENEZ RODRIGUEZ JORGE,partial_submission,1,low,DT_not_evaluable,
+80953,CONTRERAS HERNANDEZ CARLOS,partial_submission,3,medium,DT_not_evaluable,
+80954,GURPEGUI ERASO ADRIAN,partial_submission,1,medium,DT_not_evaluable,
+80956,SANCHEZ DE LA PRADA PATRICIA,partial_submission,1,low,DT_not_evaluable,
+80957,SANCHEZ LINARES ISMAEL,partial_submission,1,low,DT_not_evaluable,
+80958,ROUCHY LUCA MAXIM,partial_submission,1,low,DT_not_evaluable,
+80959,GAJDOS TATJANA,partial_submission,3,low,DT_not_evaluable,
+80960,BOUZA FERNANDEZ BRUNO,full_submission,5,medium,DT_recommended,"er operators can question, and a human-in-the-loop override at every step.  The proposed architecture (full detail in the Task 4 report). Delivered well, this gives the plant real-time responsiveness"
+80961,LASHERAS GUELBENZU LUCAS,partial_submission,1,medium,DT_not_evaluable,
+80962,HENDRIKS EMMA,partial_submission,1,medium,DT_not_evaluable,
+80963,DEL CARPIO DAVALOS DIEGO ALONSO,partial_submission,1,low,DT_not_evaluable,
+80964,GOÑI OTAZU MIKEL,partial_submission,1,medium,DT_not_evaluable,
+80965,RIVIERE ANTHONY,partial_submission,2,low,DT_not_evaluable,
+80966,RODRIGUEZ VALER JOANE,partial_submission,1,low,DT_not_evaluable,
+80967,CORREIA CUNHA TIAGO,partial_submission,1,low,DT_not_evaluable,
+80968,HERMES JANO,partial_submission,1,low,DT_not_evaluable,
+80969,HEYSE MARIE,partial_submission,2,medium,DT_not_evaluable,
+80970,SANZ PULIDO CARLOS,full_submission,5,low,DT_recommended,"t gap explicitly rather than assume the blueprint works at first deployment: 1. Phase 1 — Data backbone (Layer 1 only). Instrument one furnace/line, unify its data feed, and validate the Digital Twin'"
+80971,BOZAL APESTEGUIA LOREA,partial_submission,2,medium,DT_not_evaluable,
+80972,IBARRA PEREZ JOSE ANTONIO,partial_submission,2,low,DT_not_evaluable,
+80974,BEYRIES EMILE,full_submission,5,low,DT_mentioned,Digital Twin mentioned
+80976,MELENO FERRER INES,partial_submission,1,low,DT_not_evaluable,
+80977,MENDES FREITAS ANA MARGARIDA,partial_submission,1,low,DT_not_evaluable,
+80978,GARCIA ALVAREZ BELEN,partial_submission,1,low,DT_not_evaluable,
+80979,ROJAS DUARTE KAROLD ANDREA,partial_submission,1,medium,DT_not_evaluable,
+80980,TARDANICO RICCARDO,partial_submission,1,low,DT_not_evaluable,
+80981,HAAN INGE,partial_submission,1,medium,DT_not_evaluable,
+80982,DESPINASSE HELENE,bibliography_only,0,low,DT_not_evaluable,
+80983,GALVANO GIACOMO,bibliography_only,0,low,DT_not_evaluable,
+80984,SUBIAS MORENO ALVARO,full_submission,5,medium,DT_mentioned,Digital Twin mentioned
+80985,TROOST MATTHIJS,partial_submission,2,medium,DT_not_evaluable,
+80986,VAN LOMMEL JOOS,partial_submission,1,low,DT_not_evaluable,
+80987,FERMONT PEPIJN,partial_submission,1,medium,DT_not_evaluable,
+80988,LINDELL LINNEA,partial_submission,2,medium,DT_not_evaluable,

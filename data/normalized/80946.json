@@ -1,0 +1,99 @@
+{
+    "student_name": "FELL ELSA",
+    "student_id": "80946",
+    "source_folder": "/media/samba/docencia/UPM/Masters/MIO_AIM/2627/practicas/Assignment_Class_01/FELL ELSA_80946_assignsubmission_file",
+    "total_documents": 7,
+    "total_characters": 11035,
+    "documents": [
+        {
+            "file_name": "Task1_Inventory_Initial_Scan_Report.pdf",
+            "extension": ".pdf",
+            "source_path": "/media/samba/docencia/UPM/Masters/MIO_AIM/2627/practicas/Assignment_Class_01/FELL ELSA_80946_assignsubmission_file/assignement_1_Elsa_FELL/assignement 1/Task1_Inventory_Initial_Scan_Report.pdf",
+            "size_bytes": 6789,
+            "characters": 1795,
+            "task_number": 1,
+            "text_content": "Task 1: Inventory & Initial Scan of the KnowledgeDomainDataset: Assignement 1 task 1.xls\nExecutive Summary\nThe dataset contains scientific publications focused on industrial production systems, manufacturing\nscheduling, optimization methods, energy efficiency, and Industry 4.0 technologies. The corpus reveals a\nspecialized research domain centered on production scheduling optimization for intelligent and sustainable\nmanufacturing systems.\nMetadata Inventory\nAvailable metadata include document titles, authors, journals, publication dates, keywords, and source\nreferences. These elements allow bibliometric analysis, topic modeling, network mapping, and thematic\nclustering.\nKnowledge Domain\nThe primary domain is Industrial Production Scheduling and Manufacturing Optimization, at the intersection\nof Operations Research, Manufacturing Engineering, Artificial Intelligence, Industry 4.0, and Sustainable\nManufacturing.\nMajor Research Themes\nProduction Scheduling; Optimization Algorithms (GA, PSO, NSGA-II, MILP); Sustainable Manufacturing;\nDigital Twins and Smart Manufacturing; Robust Scheduling under Uncertainty.\nKnowledge Boundaries\nIn scope: production planning, scheduling, optimization, digital twins, energy-efficient manufacturing, Industry\n4.0. Out of scope: marketing, HR, financial engineering, consumer behavior, and unrelated AI applications.\nConceptual Topography\nIndustrial Manufacturing Optimization -> Production Scheduling, Optimization Algorithms, Sustainable\nManufacturing, Industry 4.0 Technologies, and Uncertainty Management.\nConclusion\nThe corpus represents a mature and interconnected field focused on optimizing manufacturing operations\nthrough advanced scheduling algorithms, sustainability objectives, digitalization, and intelligent\ndecision-support systems.\n"
+        },
+        {
+            "file_name": "Task2_Topographical_Mapping.pdf",
+            "extension": ".pdf",
+            "source_path": "/media/samba/docencia/UPM/Masters/MIO_AIM/2627/practicas/Assignment_Class_01/FELL ELSA_80946_assignsubmission_file/assignement_1_Elsa_FELL/assignement 1/Task2_Topographical_Mapping.pdf",
+            "size_bytes": 71832,
+            "characters": 804,
+            "task_number": 2,
+            "text_content": "Industrial Manufacturing Optimization\nProduction Scheduling\nOptimization Algorithms\nSustainable Manufacturing\nIndustry 4.0\nUncertainty Management\nFlow Shop\nHybrid Flow Shop\nParallel Machines\nSteel Production\nGA\nPSO\nNSGA-II\nMILP\nEnergy Efficiency\nGreen Scheduling\nDigital T wins\nSmart Manufacturing\nRobust Optimization\nDynamic Scheduling\nT ask 2 - T opographical Mapping of the Knowledge Domain\n\nHierarchical Topic Tree\nIndustrial Manufacturing Optimization\n Production Scheduling\n   Flow Shop\n   Hybrid Flow Shop\n   Parallel Machines\n   Steel Production\n Optimization Algorithms\n   GA\n   PSO\n   NSGA-II\n   MILP\n Sustainable Manufacturing\n   Energy Efficiency\n   Green Scheduling\n Industry 4.0\n   Digital Twins\n   Smart Manufacturing\n Uncertainty Management\n    Robust Optimization\n    Dynamic Scheduling\n"
+        },
+        {
+            "file_name": "Task2_Topographical_Mapping_Report.pdf",
+            "extension": ".pdf",
+            "source_path": "/media/samba/docencia/UPM/Masters/MIO_AIM/2627/practicas/Assignment_Class_01/FELL ELSA_80946_assignsubmission_file/assignement_1_Elsa_FELL/assignement 1/Task2_Topographical_Mapping_Report.pdf",
+            "size_bytes": 7871,
+            "characters": 2415,
+            "task_number": 2,
+            "text_content": "Task 2: Topographical Mapping\nBased on the metadata corpus extracted from the 31 manufacturing and scheduling publications.\nObjective\nCreate a hierarchical topic tree and a cross-reference view of the knowledge domain to identify areas of\nconcentration and isolated research themes.\nKnowledge Concentration Zones\nThe strongest concentration occurs around Production Scheduling, Manufacturing Optimization, Energy-Efficient\nProduction, Metaheuristic Algorithms, and Smart Manufacturing.\nHierarchical Topic Tree\nIndustrial Manufacturing Optimization > Production Scheduling (Flow Shop, Hybrid Flow Shop, Parallel\nMachines, Steel Production); Optimization Methods (GA, NSGA-II, PSO, MILP, Heuristics); Sustainability\n(Energy Efficiency, Green Scheduling); Industry 4.0 (Digital Twins, Cyber-Physical Systems); Uncertainty\nManagement (Robust Scheduling, Dynamic Rescheduling).\nCross-Reference Network\nProduction Scheduling is the central hub. Optimization Algorithms strongly connect with Scheduling and\nSustainability. Digital Twins connect Industry 4.0 with Real-Time Scheduling. Robust Optimization links\nuncertainty management to decision-support systems.\nCore Clusters\nCluster A: Scheduling Systems. Cluster B: Optimization Algorithms. Cluster C: Sustainable Manufacturing.\nCluster D: Digital Transformation. Cluster E: Robust and Adaptive Planning.\nIsolated Topics\nDigital Twin applications and advanced AI-enhanced scheduling appear as emerging themes with fewer direct\nlinks but high strategic importance.\nKey Insights\nThe network indicates that scheduling is the intellectual core of the domain, while sustainability and Industry 4.0\nact as major expansion areas. Future research increasingly integrates optimization, digital twins, and\nenergy-aware production control.\nConclusion\nThe topographical map reveals a highly interconnected knowledge landscape centered on manufacturing\nscheduling optimization. Hidden relationships emerge between sustainability objectives, optimization algorithms,\nand digital transformation technologies.\nLevel 1\nLevel 2\nLevel 3\nManufacturing Optimization\nProduction Scheduling\nFlow Shop / Hybrid Flow Shop\nManufacturing Optimization\nOptimization Algorithms\nGA / PSO / NSGA-II / MILP\nManufacturing Optimization\nSustainability\nEnergy Efficiency / Green Scheduling\nManufacturing Optimization\nIndustry 4.0\nDigital Twins / CPS\nManufacturing Optimization\nUncertainty\nRobust Scheduling\n"
+        },
+        {
+            "file_name": "Task3_Synthesis_Divergence_Report.pdf",
+            "extension": ".pdf",
+            "source_path": "/media/samba/docencia/UPM/Masters/MIO_AIM/2627/practicas/Assignment_Class_01/FELL ELSA_80946_assignsubmission_file/assignement_1_Elsa_FELL/assignement 1/Task3_Synthesis_Divergence_Report.pdf",
+            "size_bytes": 6349,
+            "characters": 1243,
+            "task_number": 3,
+            "text_content": "Task 3: Synthesis Divergence\nObjective\nDrill deep into key sub-topics identified in Task 2 and contrast competing approaches.\nCluster A - Scheduling Optimization\nFocuses on efficiency, throughput and cost minimization using algorithms such as GA, PSO and MILP.\nCluster B - Sustainability\nEmphasizes energy efficiency, green scheduling and environmental performance.\nCluster C - Digital Twins\nUses real-time data, simulation and cyber-physical systems for adaptive decision making.\nCluster D - Robust Planning\nAddresses uncertainty, disruptions and dynamic rescheduling.\nDivergence Findings\nTraditional optimization prioritizes efficiency while robust and digital approaches prioritize adaptability.\nSustainability introduces additional constraints that may reduce short-term productivity but improve long-term\nperformance.\nTrade-offs\nEfficiency vs Sustainability; Stability vs Flexibility; Centralized Planning vs Real-Time Adaptation; Model\nAccuracy vs Computational Cost.\nStrategic Implications\nFuture manufacturing systems will require integration of optimization, digital twins, robust control and\nsustainability objectives.\nConclusion\nThe literature shows a transition toward intelligent, sustainable and resilient production ecosystems.\n"
+        },
+        {
+            "file_name": "Task4_Integrative_Synthesis_Report.pdf",
+            "extension": ".pdf",
+            "source_path": "/media/samba/docencia/UPM/Masters/MIO_AIM/2627/practicas/Assignment_Class_01/FELL ELSA_80946_assignsubmission_file/assignement_1_Elsa_FELL/assignement 1/Task4_Integrative_Synthesis_Report.pdf",
+            "size_bytes": 7615,
+            "characters": 2406,
+            "task_number": 4,
+            "text_content": "Task 4: Integrative Synthesis\nA Unified Organizational Blueprint for Intelligent, Sustainable and Resilient Manufacturing Systems\nExecutive Summary\nTask 4 reconverges the diverging insights identified in Task 3 into a unified manufacturing strategy. The\nobjective is to combine the strengths of optimization, sustainability, digital twins, and robust planning into\nan integrated framework.\nFoundation 1: Optimization Excellence\nClassical scheduling approaches remain essential for maximizing throughput, minimizing production\ndelays, and improving resource utilization. Genetic Algorithms, PSO, NSGA-II and MILP provide the\nanalytical foundation of operational performance.\nFoundation 2: Sustainable Manufacturing\nEnergy efficiency and green scheduling must be embedded directly into production planning. Sustainability\nbecomes a decision criterion alongside productivity, quality and cost.\nFoundation 3: Digital Twins and Industry 4.0\nDigital twins provide real-time visibility and predictive capabilities. They connect production assets,\nplanning systems and operational data into a continuous decision-support environment.\nFoundation 4: Resilience and Robust Scheduling\nRobust scheduling methods improve adaptation to uncertainty, equipment disruptions and demand\nfluctuations. Resilience becomes a strategic capability rather than a reactive activity.\nIntegrated Blueprint\nThe future manufacturing architecture combines optimization engines, digital twin platforms, sustainability\nindicators and adaptive control mechanisms. Scheduling decisions are continuously refined through\nreal-time feedback and predictive analytics.\nStrategic Roadmap\nPhase 1: Standardize production data. Phase 2: Implement optimization-driven planning. Phase 3: Deploy\ndigital twins and monitoring systems. Phase 4: Integrate energy-aware scheduling. Phase 5: Establish\nautonomous adaptive scheduling supported by AI.\nExpected Benefits\nImproved productivity, reduced energy consumption, enhanced operational visibility, stronger resilience,\nimproved decision quality and greater long-term competitiveness.\nConclusion\nThe literature supports a convergence toward intelligent manufacturing ecosystems that simultaneously\noptimize efficiency, sustainability, digitalization and resilience. The proposed blueprint integrates the\nstrongest practices identified across all research clusters into a coherent organizational strategy.\n"
+        },
+        {
+            "file_name": "Task5_Final_Report_Strategic_Storytelling.pdf",
+            "extension": ".pdf",
+            "source_path": "/media/samba/docencia/UPM/Masters/MIO_AIM/2627/practicas/Assignment_Class_01/FELL ELSA_80946_assignsubmission_file/assignement_1_Elsa_FELL/assignement 1/Task5_Final_Report_Strategic_Storytelling.pdf",
+            "size_bytes": 7617,
+            "characters": 1135,
+            "task_number": 5,
+            "text_content": "Task 5 - Final Executive Report & Strategic\n Storytelling\nExecutive briefing based on the manufacturing optimization corpus and the integrated blueprint\nderived from Tasks 1-4.\nAttention\nRising energy costs, scheduling complexity and operational uncertainty threaten competitiveness.\nInterest\nResearch demonstrates the value of Digital Twins, robust optimization and intelligent scheduling.\nDesire\nDRL combined with XAI creates adaptive yet transparent decision-making systems.\nAction\nImplement a phased roadmap from Digital Twin deployment to enterprise-scale AI scheduling.\n\n\nIntegrated Strategic Blueprint\nCapability\nStrategic Value\nDigital Twin\nReal-time virtual production environment\nDRL\nAdaptive scheduling optimization\nXAI\nTransparency and trust\nRobust Optimization\nResilience under uncertainty\nEnergy-Aware Scheduling\nCost and emission reduction\nFinal Recommendation\nThe recommended strategy is to converge Digital Twins, DRL, XAI and energy-efficient scheduling\ninto a unified operational architecture for intelligent metallurgy. This approach delivers measurable\ngains in efficiency, sustainability, agility and governance.\n"
+        },
+        {
+            "file_name": "task 2.txt",
+            "extension": ".txt",
+            "source_path": "/media/samba/docencia/UPM/Masters/MIO_AIM/2627/practicas/Assignment_Class_01/FELL ELSA_80946_assignsubmission_file/assignement_1_Elsa_FELL/assignement 1/task 2.txt",
+            "size_bytes": 1564,
+            "characters": 1237,
+            "task_number": 2,
+            "text_content": "                               INTELLIGENT MANUFACTURING\n                                        ▲\n                                        │\n                                        │\n                            Digital Twin │ Smart Factory\n                                        │\n                                        │\n                                        │\n\n ENERGY EFFICIENCY ◄────── SUSTAINABLE PRODUCTION ──────► GREEN SCHEDULING\n\n                                        ▲\n                                        │\n                                        │\n\n                          PRODUCTION SCHEDULING\n                                        ▲\n                                        │\n\n             ┌─────────────┬────────────┼────────────┬─────────────┐\n\n             ▼             ▼            ▼            ▼\n\n        Flow Shop     Parallel     Rolling Mill   Furnace\n                       Machine\n\n                                        ▲\n                                        │\n\n                             OPTIMIZATION METHODS\n\n             ┌─────────────┬────────────┼────────────┬─────────────┐\n\n             ▼             ▼            ▼            ▼\n\n             GA           PSO         NSGA-II      MOPSO"
+        }
+    ],
+    "task_summary": {
+        "1": {
+            "file_name": "Task1_Inventory_Initial_Scan_Report.pdf",
+            "characters": 1795,
+            "extension": ".pdf"
+        },
+        "2": {
+            "file_name": "task 2.txt",
+            "characters": 1237,
+            "extension": ".txt"
+        },
+        "3": {
+            "file_name": "Task3_Synthesis_Divergence_Report.pdf",
+            "characters": 1243,
+            "extension": ".pdf"
+        },
+        "4": {
+            "file_name": "Task4_Integrative_Synthesis_Report.pdf",
+            "characters": 2406,
+            "extension": ".pdf"
+        },
+        "5": {
+            "file_name": "Task5_Final_Report_Strategic_Storytelling.pdf",
+            "characters": 1135,
+            "extension": ".pdf"
+        }
+    }
+}

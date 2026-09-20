@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission is a single PDF report titled 'Steelmaking scheduling energy efficiency and intelligent automation'. It provides Task 1: an inventory and initial scan of 31 papers, describing extraction methods, domain boundaries, and a detailed tabular inventory of each source. The document includes methodological notes and classification of outcomes but does not contain evidence of subsequent tasks such as topographical mapping, synthesis, or a final integrated report.",
+  "issues": [
+    "Only Task 1 (Inventory) is present; tasks 2‑5 are missing.",
+    "Submission likely incomplete relative to full assignment requirements.",
+    "No explicit declaration of AI tool usage."
+  ],
+  "ai_detection_method": "keyword_search"
+}

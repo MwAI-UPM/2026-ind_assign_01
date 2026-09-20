@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission provides a Literature Corpus Scoping Report (Task 1) that extracts metadata, defines domain boundaries, and lists references for eight papers on classical scheduling methods in steel/metal production. It includes tables of titles, authors, journals, keywords, and brief abstract snippets, as well as notes on excluded papers and missing files.",
+  "issues": [
+    "Only Task 1 (Inventory) is present; tasks 2‑5 are missing.",
+    "Several referenced papers were unavailable and could not be processed.",
+    "The submission does not include synthesis, integrative synthesis, or final report components required by the full assignment."
+  ],
+  "ai_detection_method": "keyword_search"
+}

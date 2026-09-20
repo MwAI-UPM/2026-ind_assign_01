@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission is a single markdown file titled 'Task 1 — Inventory & Initial Scan'. It provides a metadata table for 31 papers related to scheduling and energy efficiency in steel production, along with brief core claims for each document. This content fulfills the inventory task (Task 1) but does not include any topographical mapping, synthesis, integrative synthesis, or final report components.",
+  "issues": [
+    "Only Task 1 detected; other required tasks are missing.",
+    "No AI usage declaration found.",
+    "Bibliographic information is embedded in the inventory rather than a separate bibliography."
+  ],
+  "ai_detection_method": "keyword_search"
+}

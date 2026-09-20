@@ -1,0 +1,57 @@
+student_id,student_name,completeness,ai_usage_declared,ai_tools,ai_usage_evidence
+80928,MARTINEZ LOPEZ-SERRANO MARIA,partial,True,LLM,No AI declaration found
+80929,GUERRERO GUERRERO FRANCISCO DE BORJA,partial,True,LLM,No AI declaration found
+80930,IRIBARREN ASENJO JUAN,partial,True,LLM,No AI declaration found
+80931,PARADISO MARIA FERNANDA,partial,True,LLM,No AI declaration found
+80932,MARAVER OSUNA JAVIER,partial,False,,No AI declaration found
+80933,VOGEL KACPER,complete,True,LLM,No AI declaration found
+80934,KOCER MERT,partial,True,LLM,No AI declaration found
+80935,ELBAUM JONATHAN,partial,True,LLM,No AI declaration found
+80936,MINGO MENENDEZ PABLO,partial,False,,No AI declaration found
+80937,LE STRAT MAXIME,partial,True,Copilot; LLM,"Metadata for this inventory was generated using Microsoft 365 Copilot Chat, based on the 31 filenames retrieved from the course document set."
+80938,VAN LIEVERLOO BODINE,partial,True,ChatGPT; LLM,"THE OUTPUT FROM AI THAT I WILL USE | Open the other word document send, there you can find the output from chatgpt"
+80940,BUYSSE AMELIE,incomplete,True,LLM,I asked Ai to do a thorough search through the files.
+80941,CAMPOS ORTEGA ALBERTO,partial,False,,No AI declaration found
+80942,LAVIGNE LUCAS,partial,True,LLM,No AI declaration found
+80943,GUSTAFSSON TUVA,complete,True,LLM,No AI declaration found
+80944,MENEGOZZO EDOARDO,partial,True,LLM,No AI declaration found
+80945,LE COUSIN CESAR,complete,True,Copilot; LLM,"I used AI to sum up the inventory, by asking all the following sections for each documents. I then sent the 31 documents to copilot | For this task, I have processed in a very simple way, using my previous tab as base to generate this tree with AI | For the rest, due to lack of time and a bad comprehension, I relied on AI to do the synthesis, and then I checked it"
+80946,FELL ELSA,partial,True,LLM,No AI declaration found
+80947,ESTRINGANA LOPEZ-REY JORGE,partial,True,LLM,No AI declaration found
+80949,LANEUS HANNA,partial,True,LLM,No AI declaration found
+80950,ESTEVES MAHEL,partial,True,ChatGPT; Claude; LLM,No AI declaration found
+80951,SANTOS BARON MARIA,complete,False,,No AI declaration found
+80952,JIMENEZ RODRIGUEZ JORGE,partial,True,LLM,No AI declaration found
+80953,CONTRERAS HERNANDEZ CARLOS,partial,False,,No AI declaration found
+80954,GURPEGUI ERASO ADRIAN,partial,True,LLM,No AI declaration found
+80956,SANCHEZ DE LA PRADA PATRICIA,partial,True,LLM,No AI declaration found
+80957,SANCHEZ LINARES ISMAEL,partial,True,LLM,No AI declaration found
+80958,ROUCHY LUCA MAXIM,partial,True,LLM,No AI declaration found
+80959,GAJDOS TATJANA,partial,True,LLM,"Throughout the project, I used a structured interaction with AI to progressively transform a collection of research papers into an organized body of knowledge."
+80960,BOUZA FERNANDEZ BRUNO,complete,True,Claude; LLM,"Tool. Claude Code (Anthropic) was used interactively across five sessions, one per task."
+80961,LASHERAS GUELBENZU LUCAS,partial,True,LLM,No AI declaration found
+80962,HENDRIKS EMMA,partial,True,Claude; LLM,"I used Claude (Anthropic) as a code-executing research assistant to automate metadata extraction | I also used Elicit, an AI tool purpose-built for reading and synthesizing academic literature"
+80963,DEL CARPIO DAVALOS DIEGO ALONSO,partial,True,LLM,LLM-assisted structured extraction and summarization were then used to standardize the inventory and identify recurring themes.
+80964,GOÑI OTAZU MIKEL,incomplete,True,LLM,No AI declaration found
+80965,RIVIERE ANTHONY,partial,True,LLM,No AI declaration found
+80966,RODRIGUEZ VALER JOANE,partial,True,LLM,No AI declaration found
+80967,CORREIA CUNHA TIAGO,partial,True,LLM,No AI declaration found
+80968,HERMES JANO,partial,True,Claude; Copilot; LLM,No AI declaration found
+80969,HEYSE MARIE,partial,True,LLM,No AI declaration found
+80970,SANZ PULIDO CARLOS,complete,True,Claude; LLM,describing the prompting strategy used to direct an AI agent (Claude)
+80971,BOZAL APESTEGUIA LOREA,partial,False,,No AI declaration found
+80972,IBARRA PEREZ JOSE ANTONIO,partial,True,Claude; Copilot; Gemini; LLM,"Upload the data into copilot, claude and gemini"
+80974,BEYRIES EMILE,complete,True,LLM,"Method note: reports were produced with AI assistance (text extraction, coding and drafting)."
+80976,MELENO FERRER INES,partial,True,LLM,No AI declaration found
+80977,MENDES FREITAS ANA MARGARIDA,partial,True,LLM,No AI declaration found
+80978,GARCIA ALVAREZ BELEN,partial,True,LLM,No AI declaration found
+80979,ROJAS DUARTE KAROLD ANDREA,partial,True,LLM,No AI declaration found
+80980,TARDANICO RICCARDO,incomplete,True,LLM,No AI declaration found
+80981,HAAN INGE,partial,True,Claude; LLM,No AI declaration found
+80982,DESPINASSE HELENE,incomplete,True,LLM,No AI declaration found
+80983,GALVANO GIACOMO,incomplete,True,LLM,No AI declaration found
+80984,SUBIAS MORENO ALVARO,complete,True,Claude; LLM,"Herramienta: Claude Code (aplicación de escritorio), como asistente que ejecuta las acciones."
+80985,TROOST MATTHIJS,partial,True,LLM,No AI declaration found
+80986,VAN LOMMEL JOOS,partial,True,LLM,No AI declaration found
+80987,FERMONT PEPIJN,partial,True,LLM,No AI declaration found
+80988,LINDELL LINNEA,partial,True,LLM,No AI declaration found

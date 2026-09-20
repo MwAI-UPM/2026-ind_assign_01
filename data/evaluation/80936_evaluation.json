@@ -1,0 +1,22 @@
+{
+  "completeness": "incomplete",
+  "quality": "low",
+  "evidence_strength": "high",
+  "confidence": "high",
+  "strengths": [
+    "The analysis clearly identifies that the PDF is empty and that only assignment prompts were provided.",
+    "It accurately lists the missing components, including the absence of actual task outputs and the final report."
+  ],
+  "weaknesses": [
+    "No substantive content or deliverables are present for any of the required tasks.",
+    "Task 5 (Final Report) is completely absent.",
+    "The submission fails to meet the core requirements of the assignment."
+  ],
+  "recommendations": [
+    "Resubmit with complete, substantive reports for Tasks 1‑4 as specified in the prompts.",
+    "Include a populated PDF containing the required analyses and findings.",
+    "Provide the Final Report (Task 5) that integrates and synthesizes the earlier work.",
+    "Ensure all required sections, data, and citations are present before submission."
+  ],
+  "evaluation_summary": "The submission is incomplete and of low quality because it contains only the assignment prompts and an empty PDF, with no actual analyses or final report. While the evaluator accurately identified the missing elements, the work fails to meet any core task requirements. A full resubmission with all deliverables is needed."
+}

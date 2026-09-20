@@ -1,0 +1,21 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single Excel file containing an inventory sheet that lists 14 scholarly articles with bibliographic details, keywords, and brief summaries. It fulfills the inventory task but does not provide topographical mapping, synthesis, integrative synthesis, or a final report.",
+  "issues": [
+    "Only the inventory task is addressed; other required tasks are missing.",
+    "Submission lacks any synthesis or final reporting components."
+  ],
+  "ai_detection_method": "keyword_search"
+}

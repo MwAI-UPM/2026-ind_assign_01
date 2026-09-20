@@ -1,0 +1,19 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": false,
+  "ai_tools_mentioned": [],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission provides a detailed inventory of technical artifacts, metadata, and methodological boundaries for an industrial manufacturing facility, aligning with Task 1 (Inventory). It includes a registry of assets, summaries of five research papers, and domain scopes. No evidence of topographical mapping, synthesis, integrative synthesis, or final report tasks is present.",
+  "issues": [
+    "Only Task 1 (Inventory) detected; other required tasks are missing.",
+    "Submission lacks explicit AI tool usage declaration."
+  ],
+  "ai_detection_method": "keyword_search"
+}

@@ -1,0 +1,20 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "bibliography_only",
+  "tasks_detected": [],
+  "completeness": "incomplete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single Excel file containing a table of references on AI, digital twins, and scheduling in steel manufacturing. No other assignment components (e.g., mapping, synthesis, final report) are present, and the student does not declare any AI tool usage.",
+  "issues": [
+    "Only a bibliography is provided; required tasks such as inventory analysis, mapping, or synthesis are missing.",
+    "The submission does not demonstrate completion of the assignment objectives.",
+    "No explicit statement about AI tool usage."
+  ],
+  "ai_detection_method": "keyword_search"
+}

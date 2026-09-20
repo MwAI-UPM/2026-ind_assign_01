@@ -1,0 +1,21 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single PDF presenting Task 1 (Inventory & Scan). It contains a literature review of various scheduling and energy‑optimization studies in steel production. No evidence of Tasks 2‑5 is provided.",
+  "issues": [
+    "Only Task 1 is present; Tasks 2‑5 are missing.",
+    "Submission is a partial rather than full assignment."
+  ],
+  "ai_detection_method": "keyword_search"
+}

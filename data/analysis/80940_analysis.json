@@ -1,0 +1,23 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "incomplete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "I asked Ai to do a thorough search through the files."
+  ],
+  "summary": "The submission consists of a single HTML document that primarily addresses Task 1 (Inventory & Initial Scan) by presenting a title census and bibliographic inventory for 31 PDF papers. No evidence of Tasks 2‑5 is found. The student mentions using an AI assistant to perform a search, but no specific AI tool is named. Overall, the work is partial and incomplete relative to the full assignment requirements.",
+  "issues": [
+    "Only Task 1 is provided; Tasks 2‑5 are missing.",
+    "AI usage is mentioned generically without naming a specific tool.",
+    "The submission is monolithic rather than multi‑document as expected.",
+    "Limited evidence of analysis beyond the inventory."
+  ],
+  "ai_detection_method": "keyword_search"
+}

@@ -1,0 +1,21 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission contains a single .docx file titled Task1_Iribarren_Juan.docx. It delivers the Inventory and initial scan task (Task 1) with an executive summary, a structured document inventory table, knowledge landscape analysis, and identified research themes and gaps related to industrial AI, steel manufacturing, and energy optimization. No other assignment tasks are present.",
+  "issues": [
+    "Only Task 1 (Inventory) is provided; Tasks 2‑5 are missing.",
+    "No explicit declaration of AI tool usage."
+  ],
+  "ai_detection_method": "keyword_search"
+}

@@ -1,0 +1,27 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "full_submission",
+  "tasks_detected": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "completeness": "complete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "Claude",
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "describing the prompting strategy used to direct an AI agent (Claude)"
+  ],
+  "summary": "The submission is a single PDF that serves as a companion methodology report for the five required tasks. It outlines a prompting workflow (Decompose → Delegate → Verify → Converge) and provides the specific prompts used for each task: Task 1 (Inventory), Task 2 (Topographical Mapping), Task 3 (Synthesis & Divergence), Task 4 (Integrative Synthesis), and Task 5 (Final Report). The document details how prompts were structured to extract data, build hierarchies, synthesize findings, design architectures, and craft an executive briefing, all using the AI model Claude.",
+  "issues": [
+    "The report describes prompting strategy rather than presenting the actual deliverable outputs (tables, maps, synthesis).",
+    "No bibliography or reference list is included.",
+    "Content focuses on methodology, which may be insufficient if the assignment expects the final artifacts themselves."
+  ],
+  "ai_detection_method": "keyword_search"
+}

@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single document titled TASK 1, containing a detailed inventory of processes, equipment, and a comprehensive bibliography of related literature. It primarily fulfills the Inventory (Task 1) requirement but does not include evidence of Topographical Mapping, Synthesis, Integrative Synthesis, or a Final Report.",
+  "issues": [
+    "Only Task 1 (Inventory) detected; other required tasks are missing.",
+    "No explicit AI tool usage declaration.",
+    "Content is largely bibliographic without analysis or synthesis."
+  ],
+  "ai_detection_method": "keyword_search"
+}

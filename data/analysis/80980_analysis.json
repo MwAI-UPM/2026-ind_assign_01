@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "incomplete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single PDF that provides Task 1 (Inventory and Initial Scanning of Documents) with a structured list of 29 referenced papers, their metadata and keyword summaries. No evidence of Tasks 2‑5 is present, and the document contains no explicit statement of AI tool usage.",
+  "issues": [
+    "Only Task 1 is included; Tasks 2‑5 are missing.",
+    "Submission does not contain a final report or synthesis sections.",
+    "No declaration of AI assistance is found."
+  ],
+  "ai_detection_method": "keyword_search"
+}

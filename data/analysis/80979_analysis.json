@@ -1,0 +1,22 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single Word document titled 'Task 1 Inventory & Initial Scan'. It inventories the provided document set, scans for metadata and key fragments, and defines the knowledge‑domain boundary related to steel‑production scheduling, energy efficiency, uncertainty, digital twins, reinforcement learning, and explainable AI. An initial scan table lists 20 papers with brief descriptors. No other assignment tasks are present.",
+  "issues": [
+    "Only Task 1 (Inventory) is provided; tasks 2‑5 are missing.",
+    "The submission does not include a bibliography separate from the inventory.",
+    "No explicit declaration of AI tool usage."
+  ],
+  "ai_detection_method": "keyword_search"
+}

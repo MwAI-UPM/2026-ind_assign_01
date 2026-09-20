@@ -1,0 +1,23 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "partial_submission",
+  "tasks_detected": [
+    1,
+    2
+  ],
+  "completeness": "partial",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission presents an AI‑driven prompt and outlines the steps for creating an inventory of documents and defining the boundaries of the subject area for a steel‑making company. It includes detailed inventory fields, a partial list of documents, and a discussion of topics covered or missing. However, the work stops at the inventory and subject‑area mapping stage and does not provide synthesis, integrative analysis, or a final report.",
+  "issues": [
+    "Only tasks 1 (Inventory) and 2 (Topographical Mapping) are addressed; tasks 3‑5 are missing.",
+    "The submission is incomplete, lacking synthesis, integrative synthesis, and final report sections.",
+    "No explicit declaration of AI tool usage; only generic references to a chatbot."
+  ],
+  "ai_detection_method": "keyword_search"
+}

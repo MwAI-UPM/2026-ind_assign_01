@@ -1,0 +1,21 @@
+{
+  "document_structure": "monolithic",
+  "assignment_type": "bibliography_only",
+  "tasks_detected": [],
+  "completeness": "incomplete",
+  "ai_usage_declared": true,
+  "ai_tools_mentioned": [
+    "LLM"
+  ],
+  "ai_usage_evidence": [
+    "No AI declaration found"
+  ],
+  "summary": "The submission consists of a single PDF labeled \"TASK 1\" that lists a series of literature references on scheduling, energy optimization, and explainable AI. It does not contain any of the required assignment tasks such as inventory, mapping, synthesis, or a final report, and serves primarily as a bibliography.",
+  "issues": [
+    "Only a bibliography is provided; no required tasks are present.",
+    "Submission lacks the expected deliverables for the assignment.",
+    "Single document format limits structure; no multi‑document components.",
+    "No explicit declaration of AI tool usage."
+  ],
+  "ai_detection_method": "keyword_search"
+}
