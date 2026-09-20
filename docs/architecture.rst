@@ -12,9 +12,8 @@ End-to-end flow
 
 The implemented flow is:
 
-.. code-block:: text
+```mermaid
 
-   flowchart LR
 
        A[Raw Submissions<br/>PDF DOCX XLSX]
 
@@ -49,6 +48,7 @@ The implemented flow is:
        J --> M[Teaching Dashboard]
        K --> M
        L --> M
+```
 
 The final dashboard is an intended consumer of the generated CSV products;
 this repository currently supplies the data products rather than a dashboard
